@@ -7,12 +7,12 @@ relative_permalinks: false
 encoding: utf-8
 
 # Setup
-title:               My Website
+title:               Tim Ernst
 #tagline:             'foo's website
-description:         Foo's blog...
-url: https://dyndna.github.io/lanyon-plus
+description:          Data Science Immersive student at General Assembly in New York.
+url: https://timernst.github.io/
 baseurl: "/lanyon-plus"
-urlimg: https://dyndna.github.io/lanyon-plus/images/
+urlimg: https://timernst.github.io/
 markdown: kramdown
 paginate: 5
 paginate_path: "/blog/page:num"
